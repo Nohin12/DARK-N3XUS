@@ -51,7 +51,7 @@ I'm **[`DARK N3XUS`]**, a Offensive security enthusiast skilled in ethical hacki
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OCSP Certification" />
+<img src="https://img.shields.io/badge/OCSP-Certified-red?style=for-the-badge&color=000000" alt="OCSP Certification" />
 
 </div>
 
