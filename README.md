@@ -11,7 +11,7 @@ I'm **[`DARK N3XUS`]**, a Offensive security enthusiast skilled in ethical hacki
 
 - **Name**: Dark N3xus
 - **From**: India
-- **Red Teamer** | **Security Researcher** | ** Penetration Tester**
+- **Red Teamer** | **Security Researcher** | **Penetration Tester**
 - I have experience in  vulnerability assessment, penetration testing, and social engineering.
 - Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
 - I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
