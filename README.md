@@ -92,7 +92,6 @@ In the reconnaissance phase, initial information about the target system was gat
 *Ref 1: Nmap Scan Results*  
 This screenshot shows the results of a network scan using Nmap, identifying open ports and services on the target machine.
 
-![Nmap Scan](link-to-image)
 
 ### 2. Vulnerability Scanning
 During this phase, tools like Nessus and OpenVAS were used to identify vulnerabilities in the system and applications, categorizing them based on severity.
@@ -100,7 +99,6 @@ During this phase, tools like Nessus and OpenVAS were used to identify vulnerabi
 *Ref 2: Nessus Scan Report*  
 Here, Nessus scan results display a list of detected vulnerabilities, ranked by their criticality.
 
-![Nessus Scan](link-to-image)
 
 ### 3. Exploitation
 Once vulnerabilities were identified, exploitation techniques were employed to verify their existence and assess their impact.
@@ -108,7 +106,6 @@ Once vulnerabilities were identified, exploitation techniques were employed to v
 *Ref 3: Metasploit Exploit*  
 This screenshot shows a successful exploit using Metasploit, gaining unauthorized access to the target system.
 
-![Metasploit Exploit](link-to-image)
 
 ### 4. Post-Exploitation
 Post-exploitation focused on maintaining access and escalating privileges to gather sensitive information or pivot to other systems within the network.
@@ -116,7 +113,6 @@ Post-exploitation focused on maintaining access and escalating privileges to gat
 *Ref 4: Post-Exploitation Shell*  
 This image captures the post-exploitation shell session, where elevated privileges were used to extract sensitive data.
 
-![Post-Exploitation Shell](link-to-image)
 
 ### 5. Reporting
 Finally, all findings were documented, including detailed descriptions of vulnerabilities, exploits, and remediation recommendations.
@@ -124,4 +120,3 @@ Finally, all findings were documented, including detailed descriptions of vulner
 *Ref 5: Vulnerability Report*  
 This screenshot shows a portion of the penetration testing report, highlighting critical vulnerabilities and suggested fixes.
 
-![Vulnerability Report](link-to-image)
